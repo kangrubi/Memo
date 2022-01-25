@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04166087279699B200B5DFF9 /* MemoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04166086279699B200B5DFF9 /* MemoTableViewCell.swift */; };
 		04320DB0278D5573001FF4EA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04320DAF278D5573001FF4EA /* AppDelegate.swift */; };
 		04320DB2278D5573001FF4EA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04320DB1278D5573001FF4EA /* SceneDelegate.swift */; };
 		04320DB4278D5573001FF4EA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04320DB3278D5573001FF4EA /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		04166086279699B200B5DFF9 /* MemoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoTableViewCell.swift; sourceTree = "<group>"; };
 		04320DAC278D5573001FF4EA /* Memo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04320DAF278D5573001FF4EA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04320DB1278D5573001FF4EA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				04320DAF278D5573001FF4EA /* AppDelegate.swift */,
 				04320DB1278D5573001FF4EA /* SceneDelegate.swift */,
 				04320DB3278D5573001FF4EA /* ViewController.swift */,
+				04166086279699B200B5DFF9 /* MemoTableViewCell.swift */,
 				04320DB5278D5573001FF4EA /* Main.storyboard */,
 				04320DB8278D5575001FF4EA /* Assets.xcassets */,
 				04320DBA278D5575001FF4EA /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				04320DB4278D5573001FF4EA /* ViewController.swift in Sources */,
 				04320DB0278D5573001FF4EA /* AppDelegate.swift in Sources */,
 				04320DB2278D5573001FF4EA /* SceneDelegate.swift in Sources */,
+				04166087279699B200B5DFF9 /* MemoTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
