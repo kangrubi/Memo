@@ -11,7 +11,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     
     @IBOutlet weak var tableView: UITableView!
     
-    // MARK : Propertes
+    // MARK : Properties
     struct Memo {
         var title: String
         var content: String
